@@ -23,6 +23,9 @@
                 <input type="password" id="user-password">
             </div>
             <div>
+                <input type="checkbox" name="remember-me" id="remember-me"> Remember me
+            </div>
+            <div>
                 <button type="submit">Login</button>
             </div>
 
@@ -32,7 +35,7 @@
 
             </div>
             <!-- CODE ENDS HERE -->
-             
+
         </form>
         <!-- CODE ENDS HERE -->
     </div>
