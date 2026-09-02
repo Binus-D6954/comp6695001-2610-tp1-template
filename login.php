@@ -25,6 +25,14 @@
             <div>
                 <button type="submit">Login</button>
             </div>
+
+            <!-- TODO: Print error message, if exists, that comes from actions/doLogin.php. -->
+            <!-- CODE STARTS HERE -->
+            <div id="error-message">
+
+            </div>
+            <!-- CODE ENDS HERE -->
+             
         </form>
         <!-- CODE ENDS HERE -->
     </div>
