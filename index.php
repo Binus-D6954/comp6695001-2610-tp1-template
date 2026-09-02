@@ -9,7 +9,7 @@
     <div>
         <h1>Home Page</h1>
     </div>
-    
+
     <!-- TODO: Print logged in user name in "user-name" span here -->
     <!-- CODE STARTS HERE -->
     <div>
