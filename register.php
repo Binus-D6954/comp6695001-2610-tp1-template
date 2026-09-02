@@ -33,7 +33,7 @@
                 <input type="password" id="user-password">
             </div>
             <div>
-                <button type="submit">Login</button>
+                <button type="submit">Register</button>
             </div>
 
             <!-- TODO: Print error message, if exists, that comes from actions/doLogin.php. -->
